@@ -1,7 +1,7 @@
 # chocolates
 Analysis of a dataset on sales of chocolates in various countries  
 
-🚀 Quick Statistics
+🚀 *Quick Statistics*
 Gain quick insights into your data by calculating:
 
 Formulas Explained:
