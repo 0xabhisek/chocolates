@@ -45,3 +45,23 @@ Raspberry Choco
 Organic Choco Syrup
 …and more!
 
+
+Exploratory Data Analysis with Conditional Formatting (CF)
+This project demonstrates how to leverage Conditional Formatting in Excel to gain insights from sales data. Three approaches are explored to highlight trends, outliers, and performance indicators.
+
+📊 Objective
+Enhance data visibility through color coding and conditional rules.
+Understand high sales with fewer units, identify top performers, and explore duplicate or critical values.
+🛠️ Steps Performed
+1. Color Scales
+Applied Conditional Formatting → Color Scales to the "Amount" column.
+Visualized data trends by zooming out for better insights.
+2. Top/Bottom Rules
+Highlighted values:
+Greater than average
+Top 10 items in the "Amount" column.
+Sorted units to reveal high sales with fewer units.
+3. Highlight Cells
+Identified duplicate values for analysis.
+Sorted by preference to analyze patterns.
+
